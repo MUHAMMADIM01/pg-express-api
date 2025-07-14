@@ -1,1 +1,2 @@
-# pg-express-api
+node_modules
+.env
